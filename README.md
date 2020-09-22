@@ -6,7 +6,7 @@ I am a Data scientist/Machine learning Engineer with a background in Civil Engin
 - 👯 I’m looking to collaborate on GCP or AWS
 - 🤔 I’m looking forward to working with you on real-life projects
 - 💬 Ask me about Civil Engineering and Built Environment
-- 📫 How to reach me: www.drtosin.com
+- 📫 Portfolio and how to reach me: www.tosinojajuni.com
 - 🤔 Alias: DrT
 - ⚡ Fun fact: Love to sing and play the piano
 
