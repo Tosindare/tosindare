@@ -10,3 +10,11 @@ I am a Data scientist/Machine learning Engineer with a background in Civil Engin
 - 🤔 Alias: DrT
 - ⚡ Fun fact: Love to sing and play the piano
 
+``` python
+  def relevant_skill(Tosin):
+    skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'ML_DL': 'Advance', 'HTML & CSS': 'Intermediate'}
+    tools = ['TensorFlow', 'numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
+    big_data = ['Apache Spark', PySpark]
+    cloud_architecture = ['AWS', 'GCP']
+  return 
+```
