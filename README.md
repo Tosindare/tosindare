@@ -14,7 +14,7 @@ I am a Data scientist/Machine learning Engineer with a background in Civil Engin
   def relevant_skill(Tosin):
     skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'ML_DL': 'Advance', 'HTML & CSS': 'Intermediate'}
     tools = ['TensorFlow', 'numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
-    big_data = ['Apache Spark', PySpark]
+    big_data = ['Apache Spark', 'PySpark']
     cloud_architecture = ['AWS', 'GCP']
   return 
 ```
