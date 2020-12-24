@@ -13,8 +13,9 @@ I am a Data scientist/Machine learning Engineer with a background in Civil Engin
 ``` python
   def relevant_skills(Tosin):
     skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'ML_DL': 'Advance', 'HTML & CSS': 'Intermediate'}
-    tools = ['TensorFlow', 'numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
-    big_data = ['Apache Spark', 'PySpark']
+    tools = ['TensorFlow', 'PyTorch', 'numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 
+    'Plotly', 'Dash', 'keras', 'flask', 'tableau']
+    big_data_streaming = ['Apache Spark', 'kafta', 'PySpark']
     cloud_architecture = ['AWS', 'GCP']
   return 
 ```
