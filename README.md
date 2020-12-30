@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Data scientist/Machine learning Engineer with a background in Civil Engineering. I am passionate about promoting the knowledge-Innovation-Enterprise nexus employing data-driven solutions to real-life business problems. I am proudly a Certified Tensoflow Developer (by Tensoflow, Google)
 
-- 🔭 I’m currently working on web scraping/NLP projects using Deep Learning in Python/TensorFlow 
+- 🔭 I’m currently working on End-to-End Deep Learning projects in Python/TensorFlow and PyTorch
 - 🌱 I’m currently learning Django 
 - 👯 I’m looking to collaborate on GCP or AWS
 - 🤔 I’m looking forward to working with you on real-life projects
