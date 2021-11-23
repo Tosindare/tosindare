@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Data scientist/Machine learning Engineer with a background in Civil Engineering. I am passionate about promoting the knowledge-Innovation-Enterprise nexus employing data-driven solutions to real-life business problems. I am proudly a Certified Tensoflow Developer (by Tensoflow, Google)
+I am a Data and Machine learning Engineer with a background in Civil Engineering. I am passionate about promoting the knowledge-Innovation-Enterprise nexus employing data-driven solutions to real-life business problems. I am proudly a Certified Tensoflow Developer (by Tensoflow, Google).
 
 - 🔭 I’m currently working on End-to-End ML/DL projects in TensorFlow and PyTorch on Big Data with Kafka and Spark
 - 🌱 I’m currently learning Django 
