@@ -15,7 +15,7 @@ I am a Data and Machine learning Engineer with a background in Civil Engineering
     skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'ML_DL': 'Advance', 'HTML & CSS': 'Intermediate'}
     tools = ['TensorFlow', 'PyTorch', 'numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 
     'Plotly', 'Dash', 'keras', 'flask', 'tableau']
-    big_data_streaming = ['Apache Spark', 'kafta', 'PySpark']
-    cloud_architecture = ['AWS', 'GCP']
+    big_data_streaming = ['Apache Spark', 'Databricks', 'kafta', 'PySpark']
+    cloud_architecture = ['Azure', 'GCP']
   return 
 ```
