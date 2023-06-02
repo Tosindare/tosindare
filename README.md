@@ -1,9 +1,9 @@
 ### Hi there 👋
 I am a Data and Machine learning Engineer with a background in Civil Engineering. I am passionate about promoting the knowledge-Innovation-Enterprise nexus employing data-driven solutions to real-life business problems. I am proudly a Certified Tensoflow Developer (by Tensoflow, Google).
 
-- 🔭 I’m currently working on End-to-End ML/DL projects in TensorFlow and PyTorch on Big Data with Kafka and Spark
+- 🔭 I’m currently working on End-to-End automation of Data Engineering processes to serve ML/DL projects 
 - 🌱 I’m currently learning Django 
-- 👯 I’m looking to collaborate on GCP or AWS
+- 👯 I’m looking to collaborate on GCP or AWS or Azure
 - 🤔 I’m looking forward to working with you on real-life projects
 - 💬 Ask me about Civil Engineering and Built Environment
 - 📫 Portfolio and how to reach me: www.tosinojajuni.com
