@@ -12,10 +12,10 @@ I am a Data and Machine learning Engineer with a background in Civil Engineering
 
 ``` python
   def relevant_skills(Tosin):
-    skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'ML_DL': 'Advance', 'HTML & CSS': 'Intermediate'}
+    skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'ML_DL': 'Advance', 'HTML & CSS': 'Intermediate', 'data_pipelines':['Airflow', 'DBT', 'Dataform'}
     tools = ['TensorFlow', 'PyTorch', 'numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 
     'Plotly', 'Dash', 'keras', 'flask', 'tableau']
     big_data_streaming = ['Apache Spark', 'Databricks', 'kafta', 'PySpark']
-    cloud_architecture = ['Azure', 'GCP']
+    cloud_architecture = ['Azure', 'AWS', 'GCP']
   return 
 ```
